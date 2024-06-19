@@ -1,0 +1,58 @@
+header{
+    height: 500px;
+    background-color: rgb(10, 196, 10);
+    text-align: center;
+    color: black;
+    padding: 50px;
+    font-size: 65px;
+    background-image: url(https://u.livelib.ru/reader/olgasnufkin/o/fqc9iwqz/o-o.jpeg);
+    background-size: cover;
+}
+body{
+    margin: 0px;
+}
+
+main{
+ font-size:  30px;
+ height: 1500px;
+ background-color: rgb(255, 255, 255);
+ text-align: center;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+.container{
+    background-color: aqua;
+    padding: 20px;
+}
+.block1{
+    background-color: rgba(0, 180, 9, 0.808);
+}
+.block2{
+    background-color: rgba(216, 104, 0, 0.808);
+}
+.block3{
+    background-color: rgba(231, 231, 231, 0.808);
+}
+.block4{
+    background-color: rgba(125, 209, 143, 0.808);
+}
+footer{
+    background-color: rgb(97, 42, 42);
+    padding:15px ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    height: 200px;
+}
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
